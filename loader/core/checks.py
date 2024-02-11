@@ -89,7 +89,7 @@ def _vars() -> None:
         try:
             unpack(str_fmt, urlsafe_b64decode(string + "=" * (-len(string) % 4)))
         except struct_error:
-            error("Invalid SESSION_STRING var !", "need a pyrogram session string")
+            error("Invalid SESSION_STRING var !", "need a hydrogram session string")
 
     if bot_token:
         if ':' not in bot_token:

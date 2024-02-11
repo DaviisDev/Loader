@@ -12,8 +12,8 @@ import asyncio
 import os
 
 from dotenv import load_dotenv
-from pyrogram import Client
-from pyrogram.errors import UserIsBot
+from hydrogram import Client
+from hydrogram.errors import UserIsBot
 
 if os.path.isfile("config.env"):
     load_dotenv("config.env")
