@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/fnixdev/Hilzu">
+    <a href="https://github.com/daviisdev/Hilzu">
         <img src="https://telegra.ph/file/c588391f7da8960280bf7.jpg" alt="Hilzu">
     </a>
     <br>
@@ -10,7 +10,7 @@
 ### Installing 
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/fnixdev/Hilzu/master/resources/scripts/ubuntu_install.sh)
+bash <(curl -s https://raw.githubusercontent.com/daviisdev/Hilzu/master/resources/scripts/ubuntu_install.sh)
 ```
 
 ### Project Credits 💆‍♂️
